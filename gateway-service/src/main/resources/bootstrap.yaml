@@ -1,7 +1,7 @@
 
 spring:
   application:
-    name: bike-service
+    name: gateway-service
   cloud:
     config:
       enabled: true
