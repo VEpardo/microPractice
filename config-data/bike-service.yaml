@@ -7,8 +7,4 @@ eureka:
     service-url:
       default-zone: http://localhost:8761/eureka
   instance:
-<<<<<<< HEAD
     instance-id: ${spring.application.name}:${spring.application.instance_id:${random.value}}
-=======
-    instance-id: ${spring.application.name}:${spring.application.instance_id:${random.value}}
->>>>>>> 080a822d7b15d630067c716eca12f7dcae84158c
